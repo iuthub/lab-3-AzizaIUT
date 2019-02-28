@@ -1,0 +1,31 @@
+.h{
+	border: 5px red solid;
+}
+
+.body {
+
+	border: 5px green solid;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+#so{
+ 
+   border: 5px orange solid;	
+}
+
+.k{
+	margin: 10px 0px 0px 0px;
+	border: 5px blue solid;
+	background-color: #E8FBFB;
+}
+#k_1{
+    margin-top: 5px;
+	border: 5px darkblue solid;
+   
+}
+#img{
+    background-image: url("7.jpg");	
+}
